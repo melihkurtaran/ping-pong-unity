@@ -17,6 +17,9 @@ It is a 2D Ping-Pong game built with Unity Engine and C#.
 There are two modes in the game, 1) one player mode: player plays against AI,
 2) two player mode: two players can play against each other
 
+## Demo Video
+[Ping Pong Game Demo](https://www.youtube.com/watch?v=B8zgBLLEqWE)
+
 ## Build
 1. Copy https://github.com/melihkurtaran/ping-pong-unity.git
 2. Go to your command prompt or terminal. (Make sure you have installed git on your computer)
