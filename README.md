@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="150" height="auto" src="">
+  <img width="150" height="auto" src="https://github.com/melihkurtaran/ping-pong-unity/blob/main/Screenshots/Screenshot%202022-10-12%20at%2016.49.53.png?raw=true">
 </p>
 
 <h1 align="center">PING PONG GAME</h1>
@@ -27,8 +27,8 @@ There are two modes in the game, 1) one player mode: player plays against AI,
 ## Screenshots
 
 <p align="center">
-  <img width="50%" height="260" src="">
-  <img width="49%" height="260" src="">
+  <img width="50%" height="260" src="https://github.com/melihkurtaran/ping-pong-unity/blob/main/Screenshots/Screenshot%202022-10-12%20at%2016.50.18.png?raw=true">
+  <img width="49%" height="260" src="https://github.com/melihkurtaran/ping-pong-unity/blob/main/Screenshots/Screenshot%202022-10-12%20at%2016.51.17.png?raw=true">
 </p>
 
 
